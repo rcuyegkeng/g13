@@ -1,4 +1,4 @@
-rgb 0 255 0 
+rgb 204 0 0 
 mod 15 
 bind G4 KEY_W
 bind G10 KEY_A
